@@ -25,8 +25,10 @@
 // var perimeter = 2 * pi * radius;
 // console.log(area+"\n"+perimeter);
 
-//! Question 5:
-const y = "2x - 2";
+// Question 5:
+var xIntercept = [1,0] ;
+var yIntercept = [0 ,-2] ;
+var slope1 = 2;
 
 // Question 6:
 var point1 = [2 , 2];
@@ -34,8 +36,16 @@ var point2 = [6 ,10];
 var slope = (point2[1]-point1[1])/(point2[0]-point1[0]);
 console.log(slope);
 
-//! Question 7:
-
+// Question 7:
+if(slope1 > slope){
+    console.log(slope1+"is greater");
+}
+else if(slope > slope1){
+    console.log(slope+"is greater");
+}
+else{
+    console.log(slope+" = "+slope1);
+}
 // Question 8:
 for(let i = 0 ; ;i++){
     var y1 = i*i + 6*i + 9;
