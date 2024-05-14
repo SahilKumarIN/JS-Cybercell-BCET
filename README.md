@@ -11,3 +11,4 @@
 | 05      | Day 05 Assignment | [Day-05-Assignment](./Day_05_Assignment/ "Day-05-Assignment") |
 | 06      | Day 06 Assignment | [Day-06-Assignment](./Day_06_Assignment/ "Day-06-Assignment") |
 | 07      | Day 07 Assignment | [Day-07-Assignment](./Day_07_Assignment/ "Day-07-Assignment") |
+| 08      | Day 08 Assignment | [Day-08-Assignment](./Day_08_Assignment/ "Day-08-Assignment") |
