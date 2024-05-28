@@ -1,6 +1,6 @@
 <h1 align="center">Javascript Cybercell BCET</h1>
 
-## Content :
+## Table of Content :
 
 | Sr. No. | Topics            | Links                                                         |
 | ------- | ----------------- | ------------------------------------------------------------- |
@@ -12,3 +12,4 @@
 | 06      | Day 06 Assignment | [Day-06-Assignment](./Day_06_Assignment/ "Day-06-Assignment") |
 | 07      | Day 07 Assignment | [Day-07-Assignment](./Day_07_Assignment/ "Day-07-Assignment") |
 | 08      | Day 08 Assignment | [Day-08-Assignment](./Day_08_Assignment/ "Day-08-Assignment") |
+| 09      | Day 09 Assignment | [Day-09-Assignment](./Day_09_Assignment/ "Day-09-Assignment") |
